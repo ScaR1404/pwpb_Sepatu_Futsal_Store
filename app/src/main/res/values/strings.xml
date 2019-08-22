@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sepatu Futsal</string>
+    <string name="app_brand">Sepatu Brand</string>
+    <string name="sepatu_name">Nama Sepatu</string>
+    <string name="harga">Harga Sepatu</string>
+    <string name="deskripsi">Deskripsi Sepatu</string>
+</resources>
